@@ -7,7 +7,7 @@ Available on [Nwagyu](https://yaya-cout.github.io/Nwagyu/)
 This version is a fork based off Yaya-Cout's PeanutGB port, modified using code from the PeanutGB Color port to include color while retaining saving functionnality. 
 
 ## Install the app
-
+'tàç'à)onpmg, ;e jgu 
 To install this app, you'll need to:
 1. Download the latest `peanutgb.nwa` file from the [Releases](https://codeberg.org/Yaya-Cout/peanutgb/releases) page
 2. Extract a `cartridge.gb` ROM dump from your GameBoy cartridge, or, alternatively, use the provided `src/flappyboy.gb` file.
